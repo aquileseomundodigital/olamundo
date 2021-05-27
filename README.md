@@ -1,2 +1,2 @@
-# olamundo
-Meu primeiro repositório Github
+# Olá, mundo!
+Esse é o meu "Hello World no Github!
